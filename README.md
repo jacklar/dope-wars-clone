@@ -1,2 +1,4 @@
-# dope wars clone
+# Readme 
+
+Implementing a cli version of dope wars. 
  
