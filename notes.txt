@@ -1,0 +1,64 @@
+What is needed for dope wars
+
+Objects:
+  Player
+  Cities
+  Drugs
+  Weapons
+  Loans
+  Loan sharks
+  Bank
+  Cops
+  Events
+  
+  
+Player:
+  Name
+  Health
+  Wallet
+  Inventory
+  
+Cities
+  Name
+  Location
+  Drugs
+  Cops
+  Loan sharks
+  
+Drugs
+  Name
+  Price
+  Inventory
+  
+Weapons
+  Name
+  Damage
+  Ammo
+  Price
+  
+Loans
+  Loan shark
+  Initial value
+  Interest Rate
+  Loan duration
+  Final value
+  
+Loan sharks
+  Names
+  Loans
+  
+Bank
+  Account balance
+  deposit
+  withdraw
+  
+Cops
+  Name
+  Health
+  Damage
+  
+Events
+  Type
+  Impact on market
+  
+  
