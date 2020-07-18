@@ -62,3 +62,16 @@ Events
   Impact on market
   
   
+  A player can:
+    Buy Drugs
+    travel to new Cities
+    Sell Drugs
+    Take Loans
+    Pay off Loans
+    Deposit money at the Bank
+    withdraw money at the Bank
+    fight Cops
+    be killed
+    be arrested 
+  
+  
